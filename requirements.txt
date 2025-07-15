@@ -1,0 +1,6 @@
+pyttsx3
+SpeechRecognition
+spacy
+wikipedia
+pyautogui
+pyaudio
