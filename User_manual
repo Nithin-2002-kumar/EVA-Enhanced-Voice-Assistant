@@ -1,0 +1,22 @@
+# 🤖 EVA – Enhanced Voice Assistant | User Manual
+
+Welcome to **EVA**, your offline-capable, intelligent voice assistant designed to automate your computer, interact naturally, and perform productivity tasks using voice, NLP, and logic.
+
+---
+
+## ⚙️ 1. System Requirements
+
+- Windows 10 or higher
+- Python 3.8+
+- Microphone (input)
+- Stable Internet (for Wikipedia/Wikipedia API)
+- Optional: Webcam (for future gesture/vision support)
+
+---
+
+## 📦 2. Installation
+
+### Clone or Download
+```bash
+git clone https://github.com/yourusername/eva-voice-assistant.git
+cd eva-voice-assistant
